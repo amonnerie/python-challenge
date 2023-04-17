@@ -1,4 +1,5 @@
 # python-challenge
+## by Andrea Monnerie (independently)
 
 ##Two concepts/scenarios
 
